@@ -1,0 +1,3 @@
+[submodule "FirmWire"]
+	path = FirmWire
+	url = https://github.com/FirmWire/FirmWire.git

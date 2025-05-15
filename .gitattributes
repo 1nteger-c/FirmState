@@ -1,0 +1,6 @@
+samples/memory_dumps/preaka.log filter=lfs diff=lfs merge=lfs -text
+samples/memory_dumps/preaka.log filter=lfs diff=lfs merge=lfs -text
+BTL_decoder/modem/G973NKOU7HWD1.bin_MAIN_40010000 filter=lfs diff=lfs merge=lfs -text
+BTL_decoder/modem/G991NKOU4EWE2.bin_MAIN_40010000 filter=lfs diff=lfs merge=lfs -text
+BTL_decoder/modem/S921NKSU2AXE4.bin_MAIN_40010000 filter=lfs diff=lfs merge=lfs -text
+BTL_decoder/modem/N950NKOU5DSL1.bin_MAIN_40010000 filter=lfs diff=lfs merge=lfs -text
